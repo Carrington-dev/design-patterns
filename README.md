@@ -7,6 +7,11 @@ An IT Consulting Company
 
 ## Types of Design Patterns
 ### Creation Design Patterns
+#### Builder
+#### Simple Factory
+#### Factory
+#### Singleton
+#### Factory
 
 #### Builder Design Pattern
 #### Simple Factory
