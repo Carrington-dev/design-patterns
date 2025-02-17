@@ -1,4 +1,4 @@
-# design-patterns
+# Design Patterns
 An IT Consulting Company 
 
 ## SOLID Principles 
