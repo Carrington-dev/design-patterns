@@ -10,5 +10,11 @@ An IT Consulting Company
 #### Builder Design Pattern
 #### Simple Factory
 #### Factory
+#### Prototype
+#### Abstract Factory
 #### Singleton
-#### Factory
+#### Object Tool
+
+### Structural Design Patterns
+#### Builder Design Pattern
+#### Simple Factory
